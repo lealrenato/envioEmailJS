@@ -6,8 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lealrenato/envioEmailJS.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lealrenato/envioEmailJS/issues"
+  },
+  "homepage": "https://github.com/lealrenato/envioEmailJS#readme",
   "dependencies": {
     "nodemailer": "^6.8.0"
   }
